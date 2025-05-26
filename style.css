@@ -20,6 +20,7 @@ footer p{
     #container {
     display:flex ;
 }
+}
 .cartao {
     margin: 1rem 1rem;
 }
@@ -30,7 +31,7 @@ footer p{
     lex-grow: 1;
     flex-basis: calc(33% -6rem);
 }
-}
+
 .cartao__conteudo h3 {
     background-color: rgb(86, 206, 246);
     text-align: left;
@@ -39,9 +40,4 @@ footer p{
     margin: 0.6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
-}
-}
-
-}
-    
 }
